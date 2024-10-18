@@ -246,7 +246,7 @@ FROM employees;
 쿼리 작성 순서와, 작성한 쿼리가 실행되는 순서는 다르다.
 일반적인 SQL 실행 순서는 아래와 같으며, 세부적으로는 DBMS 마다 다르다.
 
-<img src="../images/database-basic/SQL_실행순서.png" />
+<img src="../images/SQL_실행순서.png" />
 
 1. FROM: 데이터를 조회할 테이블을 지정
 2. JOIN: 테이블을 결합하여 결과를 생성
