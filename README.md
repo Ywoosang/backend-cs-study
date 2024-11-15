@@ -1,6 +1,6 @@
 # Backend-CS-Study
 
-### 데이터베이스 기본 개념 
+## 데이터베이스 기본 개념 
 
 - [데이터베이스 개요](database-basic/데이터베이스_개요.md)  
 - [데이터베이스 기본 용어](database-basic/데이터베이스_기본_용어.md)
@@ -13,6 +13,14 @@
 - [트랜잭션 격리수준](database-basic/트랜잭션_격리수준.md)
 - [데드락](database-basic/데드락.md)
 
-### MySQL(InnoDB)
+## MySQL(InnoDB)
 
 - [데드락 발생시켜보기](mysql/데드락_발생시켜보기.md)
+
+## Redis
+
+- [자료구조](redis/자료구조.md)
+- [데이터 영구 저장(Redis Persistence)](redis/데이터_영속.md)
+
+
+## AWS

@@ -1,0 +1,6 @@
+services:
+  redis:
+    image: redis:7
+    container_name: spring-redis-study
+    ports:
+      - "6377:6379"
