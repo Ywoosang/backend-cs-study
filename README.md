@@ -1,8 +1,8 @@
 ## Java
 
 - [Java의 구조와 실행 원리](./docs/java/Java의_구조와_실행_원리.md)
+- [동일성과 동등성, equals() 와 hashCode()](./docs/java/동일성과_동등성.md)
 - [toString 올바르게 사용하기](./docs/java/toString메소드.md)
-- [메인 메서드는 왜 static일까?](./docs/java/)
 
 ## 데이터베이스 이론
 
