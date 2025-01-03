@@ -1,0 +1,11 @@
+services:
+  mysql:
+    container_name: 'spring-jpa'
+    image: 'mysql:8.0.34'
+    environment:
+      - 'MYSQL_DATABASE=testdb'
+      - 'MYSQL_PASSWORD=testpassword'
+      - 'MYSQL_ROOT_PASSWORD=testpassword'
+      - 'MYSQL_USER=testuser'
+    ports:
+      - '3307:3306'
