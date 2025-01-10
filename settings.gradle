@@ -2,3 +2,6 @@ rootProject.name = 'backend-study'
 include 'code:hibernate-uuid'
 include 'code:spring-redis'
 include 'code:spring-jpa'
+include 'code:java'
+findProject(':code:java')?.name = 'java'
+
